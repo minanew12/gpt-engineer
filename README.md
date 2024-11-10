@@ -13,14 +13,6 @@ GPT Engineer is made to be easy to adapt, extend, and make your agent learn how 
 - Fast handovers back and forth between AI and human
 - Simplicity, all computation is "resumable" and persisted to the filesystem
 
-
-## Usage
-
-**Setup**:
-
-- `pip install -r requirements.txt`
-- `export OPENAI_API_KEY=[your api key]` with a key that has GPT4 access
-
 **Run**:
 - Create a new empty folder with a `main_prompt` file (or copy the example folder `cp -r example/ my-new-project`)
 - Fill in the `main_prompt` in your new folder
